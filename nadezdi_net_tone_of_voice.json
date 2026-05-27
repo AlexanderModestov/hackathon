@@ -1,0 +1,135 @@
+{
+  "persona": {
+    "username": "nadezdi_net",
+    "name": "Nadezhda",
+    "bio": "Живу в Барселоне, пишу код, ухаживаю за зелеными\nА завтра посмотрим",
+    "base_city": "Barcelona, Spain",
+    "profession": "Software developer",
+    "origin": "Russia",
+    "account_size": {
+      "followers": 688,
+      "posts": 397
+    },
+    "archetype": "thoughtful nomad who settled — finds meaning in routines, friends, and small sensory moments rather than achievements"
+  },
+
+  "language": {
+    "primary": "Russian (~89% of posts with captions)",
+    "secondary": "English (~11% — always short, often witty or poetic)",
+    "mixing_pattern": "Russian for reflection and storytelling; English for dry one-liners, location labels, and cultural references",
+    "script_notes": "uses 'digital номадства', 'girls-only trip' — casual code-switching mid-sentence in Russian text"
+  },
+
+  "voice_dimensions": {
+    "intimacy": "writes as if to close friends, not a public audience — confessional, warm, presupposing shared context",
+    "self_irony": "undercuts sentimentality with deadpan humor; never takes herself too seriously",
+    "sensory_precision": "anchors memories in specific details: smell of fresh bread, thin floral porcelain cups, the sound of jazz",
+    "anti_hustle": "explicitly values repetition and routine over achievement lists; resists productivity culture framing",
+    "emotional_honesty": "names anxiety, doubt, and longing directly without dramatizing them",
+    "cultural_fluency": "drops Gilmore Girls, Midnight in Paris, Into the Wild references naturally, no explanation"
+  },
+
+  "caption_patterns": {
+    "short_phrase": {
+      "frequency": "~54% of captioned posts",
+      "description": "single evocative sentence or phrase, often a standalone image caption",
+      "examples_ru": [
+        "Качу, качу куда хочу",
+        "Все поняли, что я люблю Берлин?",
+        "La primavera",
+        "El fin de semana en Cataluña"
+      ],
+      "examples_en": [
+        "On a bluebird day",
+        "Slow, soft and sweet — repeat",
+        "Hold on tight, spider monkey",
+        "Gonna miss being Dutch",
+        "Your mom in Barcelona in her twenties",
+        "If I seem lost in my thoughts, just know that mentally I'm there"
+      ]
+    },
+    "place_date_label": {
+      "frequency": "~10% of captioned posts",
+      "description": "minimal caption: title/mood word + place + date, no commentary",
+      "examples": [
+        "Details\n\nBadalona\nSeptember, 2025",
+        "Intimacy\n\nBadalona\nSeptember, 2025"
+      ]
+    },
+    "personal_reflection": {
+      "frequency": "~8% of captioned posts (long-form, 200–1200 chars)",
+      "description": "lyrical, diary-style storytelling — specific memories, lists of sensory details, honest emotional accounting",
+      "structural_features": [
+        "often opens with a setting or provocation, not a thesis",
+        "uses enumeration to build emotional cumulation (series of small moments)",
+        "ends on quiet landing, not a punchline",
+        "em-dash (—) as main punctuation rhythm",
+        "no hashtags in recent long captions"
+      ],
+      "examples_excerpt": [
+        "Несколько лет кружочков в телеграмме, реедких встреч в Москве и обещания «когда-нибудь»… И вдруг мы и самом деле в поезде…",
+        "В этом году я не переехала, не выучила новый язык, не пробежала марафон… радуюсь другим повторяющимся цифрам: 4 дня в неделю хожу в офис (добровольно!)",
+        "Пока новый год потихоньку набирает свои обороты, вспоминаю самый «барселонский» момент прошлого — рассветная прогулка по безлюдному пляжу однажды в пятницу перед работой"
+      ]
+    }
+  },
+
+  "what_she_never_does": [
+    "hashtag spam or keyword stuffing (zero hashtags in posts from 2024–2026)",
+    "calls to action (no 'link in bio', no 'drop a comment', no 'save this post')",
+    "achievement brag framing ('I did X, Y, Z this year')",
+    "brand mentions or sponsored content",
+    "motivational quote captions",
+    "exclamation marks in earnest (used sparingly and self-aware)",
+    "perfect-life aesthetics or curated positivity without shadow"
+  ],
+
+  "recurring_motifs": {
+    "sensory_anchors": ["coffee (specific: thin porcelain, cappuccino, morning ritual)", "fresh bread and pastry", "morning light, sunsets", "water — sea, rivers, pools", "plants and greenery"],
+    "emotional_themes": ["the texture of friendship and physical closeness", "missing people and places", "the pleasure of settling into routine", "being between cultures and languages", "the gap between fantasy and real life (always affectionate, not bitter)"],
+    "cultural_references": ["Gilmore Girls ('Hold on tight, spider monkey')", "Midnight in Paris", "Into the Wild", "Gossip Girl ('Hey, Upper East Siders')", "jazz", "19th-century literature / 1920s aesthetics"],
+    "activities": ["cycling", "pilates", "vermouth with friends on Fridays", "Spanish lessons", "visiting cafés", "plants", "coding"]
+  },
+
+  "travel_footprint": {
+    "current_base": "Barcelona (since ~2023)",
+    "frequent_destinations": ["Berlin (7 posts)", "Helsinki (7 posts)", "Saint Petersburg (7 posts)", "Paris (2+ posts)", "Tbilisi (4 posts)", "Yerevan (3 posts)"],
+    "notable_trips": ["New York & Chicago (2025)", "Netherlands (2025)", "Andorra (2026)", "Occitanie/Lyon (2025–2026)", "Budapest", "Serbia", "Dubai+Bali", "Altai Republic", "Kazan", "Turkey"],
+    "travel_style": "arrives as a wanderer, leaves as a regular — seeks cafés, walks, locals, not landmarks"
+  },
+
+  "punctuation_and_style_fingerprints": {
+    "em_dash": "primary rhythm device — used where comma or period could go",
+    "ellipsis": "rare but meaningful; signals trailing thought, not incompletion",
+    "parentheses": "used for asides and self-commentary: '(добровольно!)', '(что?)'",
+    "sentence_length": "alternates between very short fragments and long rolling sentences in the same caption",
+    "lowercase_english": "sometimes used for vulnerability or quieter register: 'there's been a month me missing home', 'i'm just a simple russian girl'",
+    "no_hashtags": "in all posts from approximately 2024 onwards"
+  },
+
+  "ideal_post_formula": {
+    "short": "one image, one phrase — captures the mood without explaining it",
+    "medium": "image + place + month/year — minimal but anchored",
+    "long": "opens in the middle of a moment → expands into memory or feeling via list of sensory details → closes quietly, no moral or lesson"
+  },
+
+  "dos_and_donts_for_replication": {
+    "do": [
+      "anchor to a specific place, time, and sensory detail",
+      "let the mood sit without explaining it",
+      "mix mundane and meaningful without hierarchy",
+      "be self-aware about clichés — name them before using them ('Cliché, but...')",
+      "celebrate small repeated rituals as the substance of a good life",
+      "switch to English for dry wit or cultural reference one-liners",
+      "leave something unsaid"
+    ],
+    "dont": [
+      "explain the photo",
+      "summarize what happened ('We had such an amazing time!')",
+      "ask for engagement",
+      "use inspirational tone",
+      "over-punctuate with exclamations",
+      "name-drop places as status ('Was in Paris this week!')"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Reels Script Generator</title>
+  <style>
+    body { font-family: sans-serif; max-width: 700px; margin: 40px auto; padding: 0 20px; }
+    label { font-weight: bold; display: block; margin-bottom: 4px; }
+    input { width: 100%; padding: 8px; margin-bottom: 16px; box-sizing: border-box; font-size: 16px; border: 1px solid #ccc; border-radius: 4px; }
+    button { padding: 10px 24px; font-size: 16px; cursor: pointer; background: #405de6; color: white; border: none; border-radius: 4px; }
+    button:disabled { opacity: 0.6; cursor: not-allowed; }
+    .error { color: #c00; background: #fff0f0; border: 1px solid #f5c6c6; padding: 12px; border-radius: 4px; display: none; margin-top: 16px; }
+    .result { display: none; margin-top: 24px; }
+    .section { background: #f9f9f9; padding: 16px; border-radius: 4px; margin-bottom: 16px; border: 1px solid #e0e0e0; }
+    .section h2 { margin: 0 0 12px; font-size: 18px; }
+    .beat-item { margin: 6px 0; line-height: 1.5; }
+    .beat-label { font-weight: bold; }
+    pre { white-space: pre-wrap; font-family: inherit; margin: 0; line-height: 1.6; }
+  </style>
+</head>
+<body>
+  <h1>Reels Script Generator</h1>
+
+  <label for="hashtag">Хэштег</label>
+  <input id="hashtag" type="text" placeholder="fitness" />
+
+  <label for="topic">Твоя тема</label>
+  <input id="topic" type="text" placeholder="домашние тренировки" />
+
+  <button id="btn" onclick="generate()">Generate Script</button>
+
+  <div class="error" id="error"></div>
+
+  <div class="result" id="result">
+    <div class="section">
+      <h2>Beat Sheet</h2>
+      <div class="beat-item"><span class="beat-label">Hook: </span><span id="hook"></span></div>
+      <div class="beat-item"><span class="beat-label">Conflict: </span><span id="conflict"></span></div>
+      <div class="beat-item"><span class="beat-label">Resolution: </span><span id="resolution"></span></div>
+      <div class="beat-item"><span class="beat-label">CTA: </span><span id="cta"></span></div>
+    </div>
+    <div class="section">
+      <h2>Full Script</h2>
+      <pre id="script"></pre>
+    </div>
+  </div>
+
+  <script>
+    async function generate() {
+      const hashtag = document.getElementById('hashtag').value.trim().replace(/^#/, '');
+      const topic = document.getElementById('topic').value.trim();
+      const btn = document.getElementById('btn');
+      const errorEl = document.getElementById('error');
+      const resultEl = document.getElementById('result');
+
+      errorEl.style.display = 'none';
+      resultEl.style.display = 'none';
+      btn.disabled = true;
+      btn.textContent = 'Generating...';
+
+      try {
+        const res = await fetch('/generate', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ hashtag, creator_topic: topic }),
+        });
+
+        if (!res.ok) {
+          const err = await res.json();
+          throw new Error(err.detail || 'Неизвестная ошибка');
+        }
+
+        const data = await res.json();
+        document.getElementById('hook').textContent = data.beat_sheet.hook;
+        document.getElementById('conflict').textContent = data.beat_sheet.conflict;
+        document.getElementById('resolution').textContent = data.beat_sheet.resolution;
+        document.getElementById('cta').textContent = data.beat_sheet.cta;
+        document.getElementById('script').textContent = data.script;
+        resultEl.style.display = 'block';
+      } catch (e) {
+        errorEl.textContent = e.message;
+        errorEl.style.display = 'block';
+      } finally {
+        btn.disabled = false;
+        btn.textContent = 'Generate Script';
+      }
+    }
+  </script>
+</body>
+</html>

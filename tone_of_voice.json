@@ -1,0 +1,683 @@
+{
+  "profile_summary": {
+    "username": "nadezdi_net",
+    "full_name": "Nadezhda",
+    "bio": "Живу в Барселоне, пишу код, ухаживаю за зелеными. А завтра посмотрим",
+    "home_city": "Barcelona",
+    "analysis_period": {
+      "from": "2024-01-01",
+      "to": "2026-05-27"
+    },
+    "total_posts_analyzed": 38,
+    "style_patterns": {
+      "avg_caption_length": 98,
+      "language_mix": {
+        "ru": 0.24,
+        "en": 0.76,
+        "mixed": 0.0
+      },
+      "length_distribution": {
+        "micro": 17,
+        "short": 17,
+        "medium": 0,
+        "long": 4
+      },
+      "avg_emoji_per_post": 0.18,
+      "topics": {
+        "daily_life": 31,
+        "travel": 6,
+        "people": 1,
+        "reflection": 0,
+        "humor": 0
+      }
+    },
+    "voice_characteristics": {
+      "micro": [
+        "On a bluebird day",
+        "Slow, soft and sweet — repeat",
+        "Hold on tight, spider monkey",
+        "Gonna miss being Dutch",
+        "I love them"
+      ],
+      "short": [
+        "Details\n\nBadalona\nSeptember, 2025",
+        "The most French thing to do in Paris 🌸",
+        "Small reminder to myself that I live in Spain now",
+        "If I seem lost in my thoughts, just know that mentally I’m there",
+        "Intimacy\n\nBadalona\nSeptember, 2025"
+      ],
+      "medium": [],
+      "long": [
+        "Пока новый год потихоньку набирает свои обороты, вспоминаю самый «барселонский» момент прошлого — рассветная прогулка по безлюдному пляжу однажды в пятницу перед работой\nПотягивалась, просыпалась, купалась голышом и немного стеснялась, а совершенно волшебная камера Оли запечетляла мои прекрасные четверть века так, что у меня теперь каждый раз при взгляде захватывает дыхание",
+        "В этом году я не переехала, не выучила новый язык, не пробежала марафон, не посетила десяток новых стран, не не не\nПосле 2 лет по сути digital номадства и 1.5 лет после переезда в Барселону, радуюсь другим повторяющимся цифрам: 4 дня в неделю хожу в офис (добровольно!) и на очные занятия по испанскому, по понедельникам - обязательный пилатес и булочка из Origo, по вторникам – терапия, в пятницу вечером – вермут и друзья. На выходных – любимое доехать на велике в центр за кофе\nВ этом году дважды была в Париже, спасибо дорогому Костичке, 5 раз (!) виделись с Витюшей, хотя живем в разных краях Европы\nПервый раз случились штаты, но и то благодаря новой реальности Гошиных командировок\nДома – расставляю книги на очередной книжной полке и пересаживаю новое растение, снова застилаю кровати в гостевой комнате и леплю на стену постер из последней поездки\nВ новой реальности спасибо всем друзьям в окошках зума, всем гостям, что хвалят за гостеприимство и уют, еще больше - тем, кто создает этот уют для нас и в очередной раз надувает матрас в гостиной; и конечно, всем барселонским, с кем можно каждый день видеться, обниматься, делиться и жить вместе жизнь\n🧡",
+        "Несколько лет кружочков в телеграмме, реедких встреч в Москве и обещания «когда-нибудь обязательно устроить girls-only trip».\nИ вдруг мы и самом деле в поезде, едем через майские цветущие поля Испании во Францию. Пьём капучино из тонкого фарфора в цветочек. Просыпаемся с сумашедшим видом на Лион, залитым солнцем. Пробуем самый вкусный в жизни крем-брюле. Соблазняемся на спонтанные покупки в магазине белья.\nВыбираем картину у уличного художника, а он заворачивает её в коробку из-под пиццы.\nВаря говорит: «Это так по-французски». А Надя всё сравнивает с Парижем и соглашается не всегда.",
+        "The best way to start a day ☕️\n\nToday we celebrate International Сoffee Day, the drink that makes us believe we can hit every milestone, juggle ten tasks at once and somehow find time for that team-building activity. 🤹‍♂️\n\nLet’s raise a mug to bean juice and our teammates who’ve shared their coffee preferences in this video.\n\nSo, what’s your fav? Share in the comments.\n\n#internationalcoffeeday #coffeelovers #manychatlife"
+      ]
+    },
+    "places": {
+      "home": [
+        "Barcelona",
+        "Jardín Botánico Marimurtra",
+        "Cataluña - España",
+        "Sitges"
+      ],
+      "travel_europe": [
+        "Andorra",
+        "Région Occitanie",
+        "Paris",
+        "France",
+        "Netherlands",
+        "Berlin",
+        "Lyon",
+        "Leucate Village",
+        "Budapest",
+        "Amsterdam"
+      ],
+      "travel_world": [
+        "New York City",
+        "Central Park",
+        "Chicago",
+        "Grand Central Terminal",
+        "Istanbul",
+        "Bakuriani"
+      ],
+      "russia_past": [
+        "Moscow",
+        "Москва • Moscow"
+      ]
+    }
+  },
+  "posts": [
+    {
+      "url": "https://www.instagram.com/p/DO9G-pKjMSR/",
+      "date": "2025-09-23",
+      "caption": "",
+      "likes": 88,
+      "length_type": "micro",
+      "language": "ru",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "New York City",
+        "city": "New York City",
+        "country": "Unknown",
+        "region_type": "travel_world"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DTs9BobDJkE/",
+      "date": "2026-01-19",
+      "caption": "Details\n\nBadalona\nSeptember, 2025",
+      "likes": 115,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DTbQGiYDo85/",
+      "date": "2026-01-12",
+      "caption": "On a bluebird day",
+      "likes": 74,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Andorra",
+        "city": "Andorra",
+        "country": "Unknown",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DXT-VaQjDMO/",
+      "date": "2026-04-19",
+      "caption": "Slow, soft and sweet — repeat",
+      "likes": 77,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Région Occitanie",
+        "city": "Région Occitanie",
+        "country": "Unknown",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DQR3O6SDKJ_/",
+      "date": "2025-10-26",
+      "caption": "Hold on tight, spider monkey",
+      "likes": 108,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DPAFvRiiHwM/",
+      "date": "2025-09-24",
+      "caption": "The most French thing to do in Paris 🌸",
+      "likes": 125,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Paris, France",
+        "city": "Paris",
+        "country": "France",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 1
+    },
+    {
+      "url": "https://www.instagram.com/p/DXm4f1Ojrw1/",
+      "date": "2026-04-26",
+      "caption": "Small reminder to myself that I live in Spain now",
+      "likes": 104,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DPZ1r8JCPFd/",
+      "date": "2025-10-04",
+      "caption": "If I seem lost in my thoughts, just know that mentally I’m there",
+      "likes": 96,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "France",
+        "city": "France",
+        "country": "Unknown",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DT3PI92jB16/",
+      "date": "2026-01-23",
+      "caption": "Intimacy\n\nBadalona\nSeptember, 2025",
+      "likes": 99,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DTp0dHrjDUG/",
+      "date": "2026-01-18",
+      "caption": "Пока новый год потихоньку набирает свои обороты, вспоминаю самый «барселонский» момент прошлого — рассветная прогулка по безлюдному пляжу однажды в пятницу перед работой\nПотягивалась, просыпалась, купалась голышом и немного стеснялась, а совершенно волшебная камера Оли запечетляла мои прекрасные четверть века так, что у меня теперь каждый раз при взгляде захватывает дыхание",
+      "likes": 210,
+      "length_type": "long",
+      "language": "ru",
+      "topic": "travel",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DS-5WsnDjs6/",
+      "date": "2026-01-01",
+      "caption": "В этом году я не переехала, не выучила новый язык, не пробежала марафон, не посетила десяток новых стран, не не не\nПосле 2 лет по сути digital номадства и 1.5 лет после переезда в Барселону, радуюсь другим повторяющимся цифрам: 4 дня в неделю хожу в офис (добровольно!) и на очные занятия по испанскому, по понедельникам - обязательный пилатес и булочка из Origo, по вторникам – терапия, в пятницу вечером – вермут и друзья. На выходных – любимое доехать на велике в центр за кофе\nВ этом году дважды была в Париже, спасибо дорогому Костичке, 5 раз (!) виделись с Витюшей, хотя живем в разных краях Европы\nПервый раз случились штаты, но и то благодаря новой реальности Гошиных командировок\nДома – расставляю книги на очередной книжной полке и пересаживаю новое растение, снова застилаю кровати в гостевой комнате и леплю на стену постер из последней поездки\nВ новой реальности спасибо всем друзьям в окошках зума, всем гостям, что хвалят за гостеприимство и уют, еще больше - тем, кто создает этот уют для нас и в очередной раз надувает матрас в гостиной; и конечно, всем барселонским, с кем можно каждый день видеться, обниматься, делиться и жить вместе жизнь\n🧡",
+      "likes": 134,
+      "length_type": "long",
+      "language": "ru",
+      "topic": "travel",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 1
+    },
+    {
+      "url": "https://www.instagram.com/p/DSz9JeGjMqC/",
+      "date": "2025-12-28",
+      "caption": "Gonna miss being Dutch",
+      "likes": 88,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Netherlands",
+        "city": "Netherlands",
+        "country": "Unknown",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DOjLhl3DIuG/",
+      "date": "2025-09-13",
+      "caption": "Cliché, but still my absolute fave place in NY",
+      "likes": 86,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Central Park, New York City",
+        "city": "Central Park",
+        "country": "New York City",
+        "region_type": "travel_world"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DJUvzY1MUkX/",
+      "date": "2025-05-06",
+      "caption": "I love them",
+      "likes": 69,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Berlin, Germany",
+        "city": "Berlin",
+        "country": "Germany",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DEuQJxBsFwD/",
+      "date": "2025-01-12",
+      "caption": "Your mom in Barcelona in her twenties",
+      "likes": 107,
+      "length_type": "short",
+      "language": "en",
+      "topic": "travel",
+      "has_location": true,
+      "location": {
+        "raw": "Barcelona, Spain",
+        "city": "Barcelona",
+        "country": "Spain",
+        "region_type": "home"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DN5ntIMkUMM/",
+      "date": "2025-08-28",
+      "caption": "Sounds like jaaaaazz",
+      "likes": 88,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Chicago, Illinois",
+        "city": "Chicago",
+        "country": "Illinois",
+        "region_type": "travel_world"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DIHadFtss4o/",
+      "date": "2025-04-06",
+      "caption": "La primavera",
+      "likes": 99,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Jardín Botánico Marimurtra",
+        "city": "Jardín Botánico Marimurtra",
+        "country": "Unknown",
+        "region_type": "home"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DGwK1trsXOw/",
+      "date": "2025-03-03",
+      "caption": "El fin de semana en Cataluña",
+      "likes": 81,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Cataluña - España",
+        "city": "Cataluña - España",
+        "country": "Unknown",
+        "region_type": "home"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DJGn6R2M3F3/",
+      "date": "2025-05-01",
+      "caption": "I wish I was there in the roaring twenties",
+      "likes": 106,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Paris, France",
+        "city": "Paris",
+        "country": "France",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DJyu3yxsdHL/",
+      "date": "2025-05-18",
+      "caption": "Несколько лет кружочков в телеграмме, реедких встреч в Москве и обещания «когда-нибудь обязательно устроить girls-only trip».\nИ вдруг мы и самом деле в поезде, едем через майские цветущие поля Испании во Францию. Пьём капучино из тонкого фарфора в цветочек. Просыпаемся с сумашедшим видом на Лион, залитым солнцем. Пробуем самый вкусный в жизни крем-брюле. Соблазняемся на спонтанные покупки в магазине белья.\nВыбираем картину у уличного художника, а он заворачивает её в коробку из-под пиццы.\nВаря говорит: «Это так по-французски». А Надя всё сравнивает с Парижем и соглашается не всегда.",
+      "likes": 166,
+      "length_type": "long",
+      "language": "ru",
+      "topic": "travel",
+      "has_location": true,
+      "location": {
+        "raw": "Lyon, France",
+        "city": "Lyon",
+        "country": "France",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DJvv8ZQsjdu/",
+      "date": "2025-05-17",
+      "caption": "Vamos a la playa",
+      "likes": 86,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Sitges, Barcelona, España",
+        "city": "Sitges",
+        "country": "España",
+        "region_type": "home"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DFatAa5Mr-E/",
+      "date": "2025-01-29",
+      "caption": "Качу, качу куда хочу",
+      "likes": 40,
+      "length_type": "micro",
+      "language": "ru",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Leucate Village",
+        "city": "Leucate Village",
+        "country": "Unknown",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C6eFp0IMcwt/",
+      "date": "2024-05-02",
+      "caption": "Spring is finally here 🌷🌱",
+      "likes": 64,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Berlin, Germany",
+        "city": "Berlin",
+        "country": "Germany",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 2
+    },
+    {
+      "url": "https://www.instagram.com/p/DOGg9xMkYz7/",
+      "date": "2025-09-02",
+      "caption": "Hey, Upper East Siders",
+      "likes": 105,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Grand Central Terminal",
+        "city": "Grand Central Terminal",
+        "country": "Unknown",
+        "region_type": "travel_world"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C79py1oMRBq/",
+      "date": "2024-06-08",
+      "caption": "The purest happiness",
+      "likes": 96,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Sitges, Barcelona, España",
+        "city": "Sitges",
+        "country": "España",
+        "region_type": "home"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C6zEr0lM1Kl/",
+      "date": "2024-05-10",
+      "caption": "Все поняли, что я люблю Берлин?",
+      "likes": 42,
+      "length_type": "short",
+      "language": "ru",
+      "topic": "people",
+      "has_location": true,
+      "location": {
+        "raw": "Berlin, Germany",
+        "city": "Berlin",
+        "country": "Germany",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DEDmzCpMCm2/",
+      "date": "2024-12-26",
+      "caption": "Such a calm Christmas in Budapest",
+      "likes": 106,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Budapest, Hungary",
+        "city": "Budapest",
+        "country": "Hungary",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DAlD151MHv_/",
+      "date": "2024-10-01",
+      "caption": "The best way to start a day ☕️\n\nToday we celebrate International Сoffee Day, the drink that makes us believe we can hit every milestone, juggle ten tasks at once and somehow find time for that team-building activity. 🤹‍♂️\n\nLet’s raise a mug to bean juice and our teammates who’ve shared their coffee preferences in this video.\n\nSo, what’s your fav? Share in the comments.\n\n#internationalcoffeeday #coffeelovers #manychatlife",
+      "likes": 86,
+      "length_type": "long",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 2
+    },
+    {
+      "url": "https://www.instagram.com/p/DB3A3wEsup1/",
+      "date": "2024-11-02",
+      "caption": "mattina a Roma",
+      "likes": 98,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DDaG1RNsHja/",
+      "date": "2024-12-10",
+      "caption": "And now I wanna become Dutch",
+      "likes": 113,
+      "length_type": "micro",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Amsterdam",
+        "city": "Amsterdam",
+        "country": "Unknown",
+        "region_type": "travel_europe"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C_87aATsSAE/",
+      "date": "2024-09-15",
+      "caption": "She loved to read and do back exercises",
+      "likes": 85,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C_0Tgd8sBgw/",
+      "date": "2024-09-12",
+      "caption": "Web development teammates when they finally turn their computers off\nIn a natural habitat 🤫",
+      "likes": 104,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 1
+    },
+    {
+      "url": "https://www.instagram.com/p/C1nSLBJMH-G/",
+      "date": "2024-01-02",
+      "caption": "Нежусь все январские с пушистыми, вспоминаю стамбульских друзей",
+      "likes": 60,
+      "length_type": "short",
+      "language": "ru",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Istanbul, Turkey",
+        "city": "Istanbul",
+        "country": "Turkey",
+        "region_type": "travel_world"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C2rmMnRMNhC/",
+      "date": "2024-01-29",
+      "caption": "Just another happy moment of this winter",
+      "likes": 34,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Bakuriani",
+        "city": "Bakuriani",
+        "country": "Unknown",
+        "region_type": "travel_world"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C2wkp_ls2H7/",
+      "date": "2024-01-31",
+      "caption": "there’s been a month me missing home",
+      "likes": 69,
+      "length_type": "short",
+      "language": "en",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Moscow, Russia",
+        "city": "Moscow",
+        "country": "Russia",
+        "region_type": "russia_past"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DCrmX3zsBzA/",
+      "date": "2024-11-22",
+      "caption": "Dumb selfies from Barcelona recently",
+      "likes": 107,
+      "length_type": "short",
+      "language": "en",
+      "topic": "travel",
+      "has_location": false,
+      "location": null,
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/C-0cMPzM1pB/",
+      "date": "2024-08-18",
+      "caption": "На память о целой неделе с подружкой в одном городе",
+      "likes": 103,
+      "length_type": "short",
+      "language": "ru",
+      "topic": "travel",
+      "has_location": true,
+      "location": {
+        "raw": "Москва • Moscow",
+        "city": "Москва • Moscow",
+        "country": "Unknown",
+        "region_type": "russia_past"
+      },
+      "emoji_count": 0
+    },
+    {
+      "url": "https://www.instagram.com/p/DN6P8yhEx69/",
+      "date": "2025-08-28",
+      "caption": "Вот скажи мне, американец",
+      "likes": 133,
+      "length_type": "micro",
+      "language": "ru",
+      "topic": "daily_life",
+      "has_location": true,
+      "location": {
+        "raw": "Chicago, Illinois",
+        "city": "Chicago",
+        "country": "Illinois",
+        "region_type": "travel_world"
+      },
+      "emoji_count": 0
+    }
+  ]
+}
