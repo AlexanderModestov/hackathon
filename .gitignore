@@ -12,5 +12,6 @@ frontend/.env.local
 
 # Data files
 *.json
+!railway.json
 *.csv
 tests/
